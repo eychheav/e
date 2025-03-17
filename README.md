@@ -4,7 +4,7 @@
 <title>College Cost</title>
 <link rel="icon" type="image/x-icon" href="images/icon.jpg">
 </head>
-<body style="background-color:lightgray;"> ‹!--សម្រាប់ពណ៍Background-->
+<body style="background-color:lightgray;"> 
 <h2 style="background-color:darkblue; color:white; border:2px solid green; font-family:Kh Muol; font-size:200%; text-align:center;">មហាវិទ្យាល័យវិទ្យាសាស្រ្ដនិងបច្ចេកវិទ្យា</h2>
 <a href="https://cost.uc.edu.Kh">Visit College Science and Technology</a><br>
 <p style="color:darkblue; border:2px solid green;">
